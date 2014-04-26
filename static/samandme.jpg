@@ -1,0 +1,564 @@
+
+
+
+					
+				
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" />
+
+		<!-- ^^^content2070^^^ -->
+
+								<title>Customer Log In | Box</title>
+
+				<meta name="description" content="Collaboration tools adopted by over 200,000 companies globally. Box simplifies online file storage, replaces FTP and connects teams in online workspaces." />
+		<meta name="keywords" content="free online storage, online storage, file sharing, online file storage, share files online, store documents online, online collaboration, collaboration tools, ftp replacement, sharepoint alternative, file storage, mobile data access, share files online, asset management, online workspace, workspace." />
+				<meta name="google-site-verification" content="7Ql1elZI9bq5Kf_h8lAe9_OXPB_l-15I1qIKlzLdeH0" />
+
+				<meta property="og:title" content="Customer Log In | Box" />
+		<meta property="og:type" content="website" />
+		<meta property="og:image" content="https://e1.boxcdn.net/_assets/img/marketing/facebook_thumb-PIwkgV.png" />
+		<meta property="og:site_name" content="Box" />
+
+													<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/section_sales_global-I9hJrD.css"/>
+							<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/section_sales_login_main-0-Djsb.css"/>
+							<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/section_marketing_global-_yCuTF.css"/>
+							<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/section_templ_marketing_login-naYx96.css"/>
+							<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/section_templ_marketing_partials_login_form-yKa_dl.css"/>
+																<link rel="stylesheet" href="https://e1.boxcdn.net/_assets/css/sales/sales_reset-qZmdnA.css"/>
+					
+				<link rel="canonical" href="https://www.box.com/login">
+
+				
+				<script src="https://e2.boxcdn.net/_assets/js/modernizr-uDHcbD.js"></script>
+
+							<style id="box_theme_css">
+				
+a, a:hover{color: #1A74BA;}.top_menu_wrapper{background-color: #267BB6;background-image: linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -o-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -moz-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -webkit-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -ms-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);filter: none;border-bottom: 1px solid #0D5E94;-webkit-box-shadow: inset 0 3px 0 -2px #0D5E94, 0 1px 1px #CCC;-moz-box-shadow: inset 0 3px 0 -2px #0D5E94, 0 1px 1px #CCC;box-shadow: inset 0 -3px 0 -2px #0D5E94, 0 1px 1px #CCC;}.button li, .multi_button li, button li{color: #FFFFFF;}.blue_button a, .blue_button button{background-image: linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -o-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -moz-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -webkit-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.13, #267BB6), color-stop(0.60, #338FCE));border: 1px solid #0D5E94;-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;color: #FFFFFF;text-shadow: none;}.blue_button .arrow{display: none;}.blue_button a:hover, .blue_button button:hover{background-color: #1E71AB;background-image: none;color: #FFFFFF;}.blue_button a:active, .blue_button button:active{-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;}.lte_ie9 .blue_button a, .lte_ie9 .blue_button button{background-color: #267BB6;}.lte_ie9 .blue_button a:hover, .lte_ie9 .blue_button button:hover{background-color: #1E71AB;}.sales_button{background: none;}.blue_button_small, .blue_button_medium_regular, .green_button_medium{color: #FFFFFF;background-color: #267BB6;background-image: linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -moz-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -webkit-linear-gradient(bottom, #267BB6 13%, #338FCE 60%);background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.13, #267BB6), color-stop(0.60, #338FCE));border-radius: 50px;border: none;-moz-border-radius: 50px;-webkit-border-radius: 50px;margin: 0 5px 0 -5px;text-shadow: none;}.blue_button_small:hover, .blue_button_medium_regular:hover, .green_button_medium:hover{color: #FFFFFF;background-image: none;background-color: #1E71AB;}.field_set li button{text-shadow: none;}.sprite_16x16_breadcrumb_home{background-position: -16px -99px;}.header_login_signup{visibility: hidden;}.breadcrumbs_wrapper{display: none;}.top_menu .header_menu_link,.ie7 .top_menu .header_menu_link{display: none;}.page_gradient{display: none;}.sub_header_small{display: none;}.page_gradient{display: none;}.sub_header_small{display: none;}			</style>
+		
+				<script>
+			
+
+var box_contact_info = {"enterprise_support":{"company_name":"Box","phone":"1-800-875-8230","email":"business-support@box.com"},"sales":{"phone":"1-877-729-4269","email":"sales@box.com","url":"https:\/\/www.box.com\/help"},"platform":{"phone":"1-866-679-0650","email":"developers@box.com"},"billing":{"phone":"1-877-729-4269","email":"billing@box.com"},"support":{"phone":"1-877-729-4269","email":"support@box.com","url":"https:\/\/www.box.com\/help"},"box_support":{"phone":"1-877-729-4269","email":"support@box.com","url":"https:\/\/www.box.com\/help","cannot_be_overridden_by_reseller":true},"box_success":{"phone":"1-877-729-4269","email":"support@box.com","url":"https:\/\/success.box.com","cannot_be_overridden_by_reseller":true},"sdrteam":{"email":"sdrteam@box.com"},"analyst":{"email":"analyst@box.com"},"partners":{"email":"partners@box.com"},"press":{"email":"press@box.com"},"bin":{"email":"bin@box.com"},"api":{"email":"api@box.com"},"reseller":{"phone":"1-877-310-4246"},"search_engine_marketing":{"phone":"1-855-241-1206"},"intl_fallback":{"phone":"+44 808 189 0504"},"ios_support":{"phone":"1-877-729-4269","email":"ios-support@box.com","url":"https:\/\/success.box.com"},"android_support":{"phone":"1-877-729-4269","email":"android-support@box.com","url":"https:\/\/success.box.com"}};  
+var marketing_resources = '{"videos":{"amyris":{"US":"NZQ5uZY2UGc"},"balfour_beatty":{"US":"veSrsjSz-18","FR":"sQMCMSVNSVo","DE":"izpcDYxvazw","IT":"ywwUyY2zvy0","ES":"4pb1AmRGSjk"},"box_onecloud":{"US":"WQncAOv0gzI","GB":"qs8l5aCPo7M","FR":"mn5PVDhCMfE","DE":"WaFJPp61TSE","IT":"MUeg0II30ag","ES":"Yy6QvPiHMCk","EU":"qs8l5aCPo7M"},"box_overview":{"US":"4kZHVl_pJ2k","GB":"gyIfUZ0Ikxc","FR":"30mS5_1d8vU","DE":"azdUtdWIDVM","IT":"bs2uZVJ9cpU","ES":"bN7O8u7X9ic","EU":"gyIfUZ0Ikxc"},"box_sync":{"US":"mp1f44dUcm4","GB":"VEQfsruj1pA","FR":"bVvkFy4oC68","DE":"z-eOpNf8Qp0","IT":"tAb2YkHcZxQ","ES":"JB_yq2x4YhA","EU":"VEQfsruj1pA"},"box_sync_overview":{"US":"Met_ItbwTgk"},"clear_channel":{"US":"EtIdSxYzviA","FR":"4XWS54LDFTw","DE":"KGcWz0QW1ts","IT":"Xxu9UVtxh_0","ES":"Tec5dCH7eYQ"},"enterasys":{"US":"ZQJDIoHo0_k"},"equinix":{"US":"W2ZHShPm9sU"},"eveo":{"US":"7uT0XyEu3kg","FR":"98vNyuEei7M","DE":"HwRAnDE3Deo","IT":"TOmL9rYNgs8","ES":"Sukhd6GLpzY"},"flir":{"US":"Tsh7EcCt7C4","FR":"o-uLTaKej8Q","DE":"h8GZQuwTn5A","IT":"_ud6o1ujfL8","ES":"qJQl00Dmc08"},"growthpoint":{"US":"Eu3sjQn9nT0","FR":"x5eWNbiVnRU","DE":"JcsQRYnh9LM","IT":"eO4B54oNp3A","ES":"1eUJmq6HeCU"},"national_equity_fund":{"US":"w22jBUqr4hI"},"nationwide":{"US":"d0KfDPRsceg"},"o2_media":{"US":"43T1wpAhqLI"},"pandora":{"US":"j5cD0rJ-z28","FR":"JgC_wTFn_Qc","DE":"0rfrAuO0qHc","IT":"qLAihS4KajU","ES":"BcVrGSAyAmY"},"security_leadership":{"US":"0EtVvnfkcy0"},"six_flags":{"US":"TBLhw90t_nw","FR":"B0Tpa07ZRk0","DE":"xkiMgPLqr1Y","IT":"4nW2Qmh54-g","ES":"Au308hxMwP4"},"timeraiser":{"US":"z4Avgsw_snY"},"wasserman_media_group":{"US":"8EnsRVwaUHo"},"yammer":{"US":"bsMhjhjPnl4","FR":"jxlZQ4zk3O4","DE":"E033kNvmYk8","IT":"ryJuxcZfK1A","ES":"eus6J-b4KOE"}}}';
+var user_location = "US";
+var user_language = "en";		</script>
+
+						<script type="text/javascript"> var hostname = 'app.box.com'
+,domain = 'box.com'
+,cookie_domain = '.box.com'
+,site_root = '/'
+,http_root = 'https://app.box.com/'
+,flash_folder = '/static/flash/';</script>
+
+		
+<script type="text/javascript"> var script_url = 'https://app.box.com/'
+,images_path = '/img/'
+,images_box_path = '/img/box/'
+,css_path = '/css/'
+,js_path = '/js/'
+,assets_index_file = 'assets-index'
+,assets_index_mini_file = 'assets-index-mini'
+,assets_base = '_assets'
+,assets_url = 'https://%s/_assets%s';</script>
+		<script>
+			var box = box || {};
+			box.globals = box.globals || {};
+
+			
+						var pageTracker = null;
+			var _gaq = [];
+			var live_site = 1;
+			var event_tracking = 1;
+			var sales_phone = '1-877-729-4269';
+			var customers_url = 'https://cloud.app.box.com/customers';
+			var is_safari = '';
+			var display_hacker_video = 0;
+			check_ref = '';
+			var enterprise_users_min = 0;
+			var prepare_enterprise = 0;
+						var last_plan_id = 0;
+						var personal_plan_selected = 'lite';
+			var business_only = 0;
+			var request_token = '67562f228359e8f218fc8a492a55c39ac6f9bbe1b81cb1ebe9542b4512a8d0df';
+
+						var envelope_marketing = true;
+		 </script>
+	</head>
+	<!--[if lt IE 7]>  <body class="ie ie6 lte_ie9 lte_ie8 lte_ie7">
+				<div id="ie6_blocker" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 99999; display: none;">
+	<div style="position: absolute; top: 0px; left: 0; width: 100%; height: 100%; background-color: black; filter: alpha(opacity=50); z-index: 1;"></div>
+
+	<div class="" style=" position: absolute; top: 200px; margin: 0 auto; width: 550px; height: 330px; text-align: center; background-color: #f1f1f1; border: 4px solid black; position: relative; z-index: 2">
+		<h2 style="width: 70%; margin: 20px auto;">Your browser is out of date</h2>
+		<p style="width: 70%; margin: 5px auto 0;">Please upgrade to a more modern browser below for enhanced functionality and a better experience.</p>
+		<div class="media" style="float: left; margin-left: 20px; width: 230px; height: 120px;">
+			<div class="sprite_128x128 img mrn" style="background: url(https://e1.boxcdn.net/_assets/img/box/128x128_ads-JT_teO.png); background-position: -155px -571px; width: 90px; height: 90px;"></div>
+			<div class="bd ptl mlm">
+				<p class="mtn strong">Firefox</p>
+				<span class="button silver_button mtm"><a href="http://www.mozilla.org/firefox/new/" target="browserupgrade" class="pvs phl man"><h6 class="pan man">Install</h6></a></span>
+			</div>
+		</div>
+		<div class="media" style="float: left; margin-left: 20px; width: 230px; height: 120px;">
+			<div class="sprite_128x128 img mrn" style="background: url(https://e1.boxcdn.net/_assets/img/box/128x128_ads-JT_teO.png); background-position: -19px -571px; width: 90px; height: 90px;"></div>
+			<div class="bd ptl mlm">
+				<p class="mtn strong">Chrome</p>
+				<span class="button silver_button mtm"><a href="http://www.google.com/chrome/" target="browserupgrade" class="pvs phl man"><h6 class="pan man">Install</h6></a></span>
+			</div>
+		</div>
+
+		<hr class="h_divider_thin mhl mvm clear">
+
+		<p class="legal ptm">Don't have permission to install programs on your computer? Install the <a href="http://www.google.com/intl/en/chrome/business/browser/chromeframe.html" target="_blank">Chrome Frame Plug-in</a>.</p>
+	</div>
+
+</div>	<![endif]-->
+	<!--[if IE 7]>     <body class="ie ie7 lte_ie9 lte_ie8 lte_ie7"> <![endif]-->
+	<!--[if IE 8]>     <body class="ie ie8 lte_ie9 lte_ie8"> <![endif]-->
+	<!--[if IE 9]>     <body class="ie ie9 lte_ie9"> <![endif]-->
+	<!--[if gt IE 9]>  <body> <![endif]-->
+	<!--[if !IE]><!--> <body> <!--<![endif]-->
+							<script type="text/javascript">
+	var google_tag_manager_data = [null];
+</script>			<script src="https://e2.boxcdn.net/_assets/js/marketing/google_tag_manager-Kn6QcV.js"></script>
+		
+				
+		<div class="wrapper language_en ">
+
+						<div class="accessible_version_switch">
+	<a class="white pvl medium strong" href="https://a.box.com/">Switch to the Accessible Version of Box ›</a>
+</div>
+															<div class="top_menu_wrapper">
+	<div class="top_menu_center">
+		<ul class="top_menu inline_list mvn">
+						<li class="logo static">
+				<a href="https://cloud.app.box.com/home/" class="box_logo_cntr">
+					<div class="sprite_box_logo sprite_box_logo_glow box_logo_glow"></div>
+					<div class="sprite_box_logo box_logo"></div>
+				</a>
+			</li>
+														<li class="header_menu_link sub_menu_wrapper ">
+					<a href="https://cloud.app.box.com/personal/"><span>For</span><strong>Personal</strong></a>
+					<ul class="sub_menu phn pbn">
+						<li class="sub_menu_divider"></li>
+						<li><a href="https://cloud.app.box.com/personal/">What Can Box Do for Me?</a></li>
+						<li><a href="https://cloud.app.box.com/personal/send-big-files-fast/">Send Big Files Fast</a></li>
+						<li><a href="https://cloud.app.box.com/personal/mobile-access/">Mobile Access</a></li>
+						<li><a href="https://cloud.app.box.com/personal/store-files-online/">Store Files Online</a></li>
+						<li><a href="https://cloud.app.box.com/personal/online-collaboration/">Online Collaboration</a></li>
+						<li class="sub_menu_button">
+							<a href="https://cloud.app.box.com/pricing/">
+								<div class="sprite_16x16_green_circle_arrow arrow"></div>
+								<strong class="green">10 GB FREE</strong>
+							</a>
+						</li>
+					</ul>
+				</li>
+								<li class="header_menu_link sub_menu_wrapper ">
+					<a href="https://cloud.app.box.com/business/"><span>For</span> <strong>Business</strong></a>
+					<ul class="sub_menu phn pbn">
+						<li class="sub_menu_divider"></li>
+						<li><a href="https://cloud.app.box.com/business/">What Can Box Do for My Business? </a></li>
+						<li><a href="https://cloud.app.box.com/business/features/">Product Features</a></li>
+						<li><a href="https://cloud.app.box.com/business/ftp-alternative/">FTP Alternative</a></li>
+						<li><a href="https://cloud.app.box.com/business/secure-file-sharing/">Secure File Sharing </a></li>
+						<li><a href="https://cloud.app.box.com/business/mobile-content-management/">Mobile Content Management</a></li>
+						<li><a href="https://cloud.app.box.com/business/project-collaboration/">Project Collaboration</a></li>
+						<li><a href="https://cloud.app.box.com/business/virtual-data-room/">Virtual Data Room</a></li>
+						<li><a href="https://cloud.app.box.com/business/document-management/">Document Management</a></li>
+						<li><a href="https://cloud.app.box.com/business/sales-portal/">Sales Portal</a></li>
+						<li><a href="https://cloud.app.box.com/business/industry/">Industry</a></li>
+						<li class="sub_menu_button">
+							<a href="https://cloud.app.box.com/pricing/">
+								<div class="sprite_16x16_green_circle_arrow arrow"></div>
+								<strong class="green">Try it Free</strong>
+							</a>
+						</li>
+					</ul>
+				</li>
+								<li class="header_menu_link sub_menu_wrapper ">
+					<a href="https://cloud.app.box.com/enterprise/"><span>For</span> <strong>Enterprise IT</strong></a>
+					<ul class="sub_menu phn pbn">
+						<li class="sub_menu_divider"></li>
+						<li><a href="https://cloud.app.box.com/enterprise/">What Can Box Do for Enterprise IT?</a></li>
+						<li><a href="https://cloud.app.box.com/enterprise/consolidated-file-services/">Consolidated File Services</a></li>
+						<li><a href="https://cloud.app.box.com/enterprise/secure-enterprise-mobility/">Secure Enterprise Mobility</a></li>
+						<li><a href="https://cloud.app.box.com/enterprise/cloud-content-management/">Cloud Content Management</a></li>
+						<li><a href="https://cloud.app.box.com/enterprise/security-and-architecture/">Security and Architecture</a></li>
+						<li><a href="https://cloud.app.box.com/platform/">The Box Platform</a></li>
+						<li><a href="https://cloud.app.box.com/enterprise/professional-services/">Professional Services</a></li>
+						<li><a href="https://cloud.app.box.com/customers/">Customers</a></li>
+						<li class="sub_menu_button">
+							<a class="light_grey" href="https://cloud.app.box.com/quote/" data-modal_template="quote_form" data-form="Enterprise Contact Me Form" data-event_location="Header enterprise dropdown">
+								<div class="sprite_16x16_green_circle_arrow arrow"></div>
+								<strong class="green">Talk to us</strong>
+							</a>
+						</li>
+					</ul>
+				</li>
+								<li class="header_menu_link "><a href="https://cloud.app.box.com/pricing/"><span>Plans &</span> <strong>Pricing</strong></a></li>
+				<li class="header_menu_link"><a class="modal" id="header_quote_modal" href="https://cloud.app.box.com/quote/" data-modal_template="quote_form" data-form="Business Contact Me Form" data-event_location="Header contact sales tab"><span>Contact Sales</span> <strong>1-877-729-4269</strong></a></li>
+				<li class="static header_menu_link header_login_signup">
+															<ul class="inline_list multi_button align align_r">
+						<li class="blue_button prn"><a class="active_blue_button left" href="https://cloud.app.box.com/login/">Log In</a></li>
+						<li class="blue_button  prn">
+							<a class=" right" href="https://cloud.app.box.com/pricing/">
+								Sign Up
+								<div class="sprite_16x16 arrow"></div>
+							</a>
+						</li>
+					</ul>
+				</li>
+								</ul>
+	</div>
+</div>			
+																		<div class="sub_header_small" style="height:90px; overflow: hidden;">
+	<div style="width: 980px; margin: auto;">	
+		<div class="line">
+			<div class="unit size2of3">
+																				<h1 class="ptl mvn white" >
+											Log in to Box
+									</h1>
+			</div>
+							<div class="unit size1of3 sprite_300x90_signup"></div>
+					</div>
+	</div>
+</div>			
+			
+			<div class="page content_fit_sub_header" style="padding-bottom: 77px;">
+
+								
+				
+				<div class="content  mbl pbl">
+					
+
+
+
+
+<script type="text/javascript">
+var init_login = 0;
+</script>
+<!--[if lt IE 7]>
+		<style>#ie6_blocker {display: block !important;}</style>
+<![endif]-->
+
+<div class="login">
+	<div class="right_column form_sidebar light">
+				<form action="/login" method="post" name="login_form1" id="login_form1" >
+		<input type="hidden" name="_redirect_url" value="/shared/static/6g4lwg96aoxkfgq4qjz7.jpg">
+	<ul id="login_content" class="field_set login" style="">
+	<li class="pbn">
+		<ul class="inline_list">
+							<li>
+					<h2>
+													Log in:
+											</h2>
+				</li>
+					</ul>
+	</li>
+
+				
+							<li>
+				<h4>Part of Box?</h4>
+				Box uses their login credentials to access Box. Continue below to log in on the Box web site.
+			</li>
+			<li class="mtm pvn mbl"><a id="login_button_sso" class="sales_button blue_button_medium_regular login_form_button_login" href="https://sso.services.box.net/sp/startSSO.ping?PartnerIdpId=kjfr6b4UTJNITHZYEKBI&amp;TargetResource=https%3A%2F%2Fcloud.app.box.com%2Fsso%2Fping_federate">Continue</a></li>
+			<hr class="divider"/>
+			<li class="mtl">
+				<h4>Not part of Box?</h4>
+				<a href="https://app.box.com/login" id="login_form_switch_to_credentials">Log in using Box credentials</a><br />
+				<a href="https://cloud.app.box.com/signup/personal/">Sign up for an account</a>
+			</li>
+							<input type="hidden" name="reg_step" value="" />
+	<input type="hidden" name="submit1" value="1" />
+	<input type="hidden" name="folder" value="" />
+	<input type="hidden" name="skip_framework_login" value="" />
+	<input type="hidden" name="login_or_register_mode" value="login" />
+	<input type="hidden" name="new_login_or_register_mode" value="" />
+		<input type="submit" value = "" style="width: 0px; height: 0px; position: absolute; left: -10000px" />
+	</ul>
+</form>
+
+	<form action="https://cloud.app.box.com/sso/google_apps" method="post" name="google_apps_login_form" id="google_apps_login_form" class="google_apps_login_form"> 		<ul class="field_set google_apps_login">
+			<li>
+				<h2>Sign In with Google Apps:</h2>
+			</li>
+			<li>
+				<div class="sales_sprite_128x128 sales_sprite_128x128_google_box"></div>
+			</li>
+			<li class="mbn">
+				<label for="google_apps_domain_input">www.</label>
+				<input type="text" id="google_apps_domain_input" class="google_domain inactive" name="google_apps_domain" value="Enter Domain Name"/>
+			</li>
+			<li style="font-size: 10px">
+				<label>&nbsp;</label>
+				<span>eg: your domain.com</span>
+			</li>
+			<li>
+				<label class="radio_input"><input type="checkbox" id="google_apps_non_enterprise_checkbox" name="google_apps_non_enterprise" /></label>
+				<label class="radio_label" for="google_apps_non_enterprise_checkbox">I do not have a Google Apps domain (select if you're a "@gmail.com" user)</label>
+			</li>
+			<li>
+				<label>&nbsp;</label>
+				<a class="sales_button blue_button_small" id="google_apps_login_button" href="#">Log In</a>
+				<a href="#" id="google_apps_back_to_login_link">Back to login</a>
+			</li>
+		</ul>
+	</form>
+	</div>
+	<div class="left_column form_content">
+				
+								<h1>
+									Login for Box Employees
+							</h1>
+										<p>
+					Welcome to Box's internal account! Easily manage and share content with your fellow Boxers.<br />
+<br />
+If you are not a Box employee, please go to <a href="https://box.com/login" target="_blank">https://box.com/login</a> or your Enterprise subdomain and log in with your company credentials.<br />
+<br />
+If you reached this page to log in and view or collaborate on files with a Box employee, log in to your account first then click on the original content link in order to access the content.
+				</p>
+										<div class="yellow_warning">
+							<h2>
+																	The owner of this item requires that you log in to access it.
+									</h2>
+				<p>Use the login form to the right to access your files. Don't have a Box account yet? <a href="/ref/smartshare">Sign up for free</a>.</p>
+						</div>
+												
+											</div>
+</div>
+
+
+				</div>
+			</div>
+		</div>
+
+					<div class="footer_wrapper " style="margin-top: -77px;">
+			<div class="module module footer pvl" data-module="legacy-footer">
+										<ul class="inline_list_ext legal mvs" role="navigation" style="padding-top:13px;">
+    <li role="contentinfo">
+    	<a href="https://cloud.app.box.com/about-us/">Powered by Box &copy;2014</a>
+    </li>
+
+            	    		<li><a href="https://cloud.app.box.com/about-us/careers/">Careers</a></li>
+			<li><a href="https://blog.box.com/">Box Blog</a></li>
+    		<li><a href="https://cloud.app.box.com/about-us/partners/">Partner with Us</a></li>
+    			<li><a href="https://cloud.app.box.com/about-us/contact-us/">Contact Box</a></li>
+		<li><a href="https://cloud.app.box.com/community" target="_blank">Community</a></li>
+    			<li><a href="#" data-type="legal-link" data-url="https://cloud.app.box.com/legal_text/tos/">Terms</a></li>
+    		<li><a href="#" data-type="legal-link" data-url="https://cloud.app.box.com/legal_text/privacy_policy">Privacy Policy</a></li>
+        <li class="last-child mrl"><a href="https://www.box.com/help" target="_blank">Help</a></li>
+        <li class="last-child">
+    	    	    	    			    	    Support: <strong>1-877-729-4269
+    	    </li>
+</ul>			</div>
+</div>		
+				
+													<script src="https://e2.boxcdn.net/_assets/js/section_sales_global-0OdIqy.js"></script>
+
+							<script src="https://e2.boxcdn.net/_assets/js/section_sales_login-42UmxB.js"></script>
+
+							<script src="https://e2.boxcdn.net/_assets/js/section_marketing_global-8C052M.js"></script>
+
+							<script src="https://e2.boxcdn.net/_assets/js/section_templ_marketing_login-SPVaZn.js"></script>
+
+							<script src="https://e2.boxcdn.net/_assets/js/section_templ_marketing_partials_login_form-dQJEC8.js"></script>
+
+					
+		<script>
+		
+
+(function() {
+
+		window.initialConfig = null || {};
+	window.initialConfig.debug = 0;
+
+			window.initialConfig.initialJSHashes = ["LQtj7","1og2L","814jR","Z7FrE","moLuV","7eG3i","CJhaJ","AMQht","D5Aw2","jhYBA","dchdW","Hcx5W","CTEG1","Ca33W","upa2L","4KMsF","Sc34s","2vxHS","ezipH","ZKMKQ","VnRZb","qW5xE","Yz3FW","oif1x","Z7FrE","LQtj7","1og2L","814jR","Vzz3y","moLuV","7eG3i","CJhaJ","AMQht","5gXUm","D5Aw2","jhYBA","eBJ2B","dchdW","Hcx5W","Ca33W","CTEG1","upa2L","bNuAW","4KMsF","6spq3","BZbRS","Ex6Zs","DACvf","cde7S","yRUHV","i11gQ","cSGXU","AVHFi","4XNLE","qW5xE","jTVqp","fUT2p","Ex6Zs","CdbxC"];
+	window.initialConfig.initialCSSHashes = ["cwFef","QXN1V","zdENB","SYHgU","CpRtm","JWAZW","pyJKg","mpeBP","4SndQ","UNQqU","F5PHY","un9gs","XjeaB","ZiCGK","RPW7c","un9gs"];
+
+		window.initialConfig.cookieDomain = '.box.com';
+
+})();
+		</script>
+
+		<div id="non_cdn" style="display:none;font-size:16px;width:960px;padding:10px;border:1px solid #d6ff3a;background-color:#faffec;position:absolute;top:66px;left:50px;z-index:5;">
+It appears that your firewall may be blocking Box or you are encountering an error.<br /><br />Please contact your IT administrator to configure your firewall to recognize all sub-domains of .box.com, .box.net, .boxcloud.com and .boxcdn.net. The ports used on these domains are 80 and 443.<br />See our <a href="https://support.box.com/entries/20353437">Firewall FAQ</a>.<br /><br />If that does not resolve the issue, then please submit a support ticket at <a target="_blank" href="https://cloud.app.box.com/help">https://cloud.app.box.com/help</a>.
+</div>
+
+<script type="text/javascript">
+setTimeout(function() {
+	var interval_id = setInterval(function() {
+		var non_cdn = document.getElementById("non_cdn");
+		if (typeof $j != 'function')
+		{
+			non_cdn.parentNode.removeChild(non_cdn);
+			non_cdn.style.position = 'static';
+			non_cdn.style.margin = '20px auto 20px auto';
+			document.body.insertBefore(non_cdn, document.body.childNodes[0]);
+			non_cdn.style.display = 'block';
+		}
+		else
+		{
+			clearInterval(interval_id);
+			non_cdn.style.display = 'none';
+		}
+	}, 500);
+}, 3500);
+</script>
+
+											<div id="marketing_tracking_codes" class="hidden">
+		
+				
+					
+<script type="text/javascript">
+/* <![CDATA[ */
+	var google_conversion_id = 1070051576;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "666666";
+	var google_conversion_label = "M8eUCOLvgQMQ-OGe_gM";
+	var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1070051576/?label=M8eUCOLvgQMQ-OGe_gM&amp;guid=ON&amp;script=0"/>
+	</div>
+</noscript>		
+		
+				
+				
+	
+	
+		
+
+ 	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-292868-1']);
+		_gaq.push(['_setDomainName', 'box.com']);
+		_gaq.push(['_trackPageview']);
+		_gaq.push(['_trackPageLoadTime']);
+
+				var box_analytics_queue = box_analytics_queue || [];
+		while(box_analytics_queue.length) _gaq.push(box_analytics_queue.shift());
+
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		
+	</script>
+	
+
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1070051576;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "666666";
+	var google_conversion_label = "yQqNCPKurQIQ-OGe_gM";
+	var google_conversion_value = 0;
+	/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1070051576/?label=yQqNCPKurQIQ-OGe_gM&amp;guid=ON&amp;script=0"/>
+	</div>
+</noscript>
+	
+
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+	var eloquaService = Box.Application.getService('eloqua');
+    _elqQ.push(['elqSetSiteId', '1464']);
+    _elqQ.push(['elqTrackPageView']);
+
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '/elqNow/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load);
+    })();
+
+	eloquaService.waitForEloquaGUIDAndSet();
+</script>
+</div>		
+				
+	
+	
+<div id="modal_wrapper" class="modal_wrapper">
+	<div id="modal" class="cntr_modal animated bounce_in">
+		<div id="close_modal" class="close sprite_16x16_grey_close">
+			
+		</div>
+		<div id="modal_content"><p id="modal_loading_badge" class="modal_loading_badge center_contents">LOADING</p></div>
+	</div>
+</div>
+							
+<div id="locale_menu" class="drop_down_ext pvs phn clickable align" style="display: none;">
+	<ul class="list_menu hover_list item_menu">
+					<li id="en_US_locale" class="locale_selection selected">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_US"></div>
+					<span>English - United States</span>
+				</a>
+			</li>
+					<li id="fr_FR_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_FR"></div>
+					<span>Français - France</span>
+				</a>
+			</li>
+					<li id="de_DE_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_DE"></div>
+					<span>Deutsch - Deutschland</span>
+				</a>
+			</li>
+					<li id="es_ES_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_ES"></div>
+					<span>Español - España</span>
+				</a>
+			</li>
+					<li id="it_IT_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_IT"></div>
+					<span>Italiano - Italia</span>
+				</a>
+			</li>
+					<li id="en_GB_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_GB"></div>
+					<span>English - United Kingdom</span>
+				</a>
+			</li>
+					<li id="en_EU_locale" class="locale_selection">
+				<a href="#">
+					<div class="list_img sprite_16x16_flag_EU"></div>
+					<span>English - Europe</span>
+				</a>
+			</li>
+			</ul>
+</div>		
+				<script type="text/x-template" id="jst-tooltip_prototype">	<div id="tooltip_prototype" class="tooltip_wrapper">
+		<div class="tooltip">
+			<div class="inner">
+				<h4></h4>
+				<p></p>
+			</div>
+			<b class="beak"></b>
+		</div>
+	</div>
+</script>	</body>
+</html>

@@ -1,0 +1,57 @@
+h1.nametitle {
+	font: 50px normal Georgia, 'Times New Roman', Times, serif;
+	color: #111111;
+	margin: 0;
+	text-align: center;
+	padding: 5px 0;
+}
+
+h1.white{
+	font: 40px normal Georgia, 'Times New Roman', Times, serif;
+	color: white;
+	margin: 0;
+	text-align: center;
+	padding: 5px 0;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h2.white {
+	font: 30px normal Georgia, 'Times New Roman', Times, serif;
+	color:white;
+	text-align: center;
+	margin:0;
+	padding:0;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+ul.center {
+	margin-left:15%;
+}
+
+.content{
+	width:80%;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.galleria{
+	width: 800px;
+	height: 475px;
+	background: #000;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.contact{
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+	background-color:gray;
+}
+.map{
+	width:112%;
+	height:500px;
+	margin-left:-6%;
+	margin-right:-6%;
+	background-image:url('../../static/map.jpg');
+}
