@@ -5,7 +5,7 @@
           <a href="http://box.com"><img class="featurette-image img-responsive" src="../static/box_logo.png" alt="Box.com"></a>
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Operations Engineer<span class="text-muted">  Box</span></h2>
+          <h2 class="featurette-heading">Operations Technician<span class="text-muted">  Box</span></h2>
 	  <p class="lead">Fenruary 2013 to Present</p>
 	  <p class="lead">
 		At Box, I am responsible for
