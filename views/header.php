@@ -35,7 +35,7 @@
             </button>
           </div>
           <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav" style="width:60%; margin-left:25%">
+            <ul class="nav navbar-nav" style="width:40%; margin-left:30%; margin-right:30%;">
 			<?php
 				$action_list = array(
 				"about"      => 'About Me',
